@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLogging", "CoreLogging\CoreLogging.csproj", "{407BBCE3-5D19-4107-9078-709474682604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407BBCE3-5D19-4107-9078-709474682604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407BBCE3-5D19-4107-9078-709474682604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407BBCE3-5D19-4107-9078-709474682604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407BBCE3-5D19-4107-9078-709474682604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE77C351-E54F-42B9-B657-07A7334BC90C}
+	EndGlobalSection
+EndGlobal
